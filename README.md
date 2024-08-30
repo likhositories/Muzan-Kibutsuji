@@ -1,6 +1,6 @@
 **Muzan-Kibutsuji** is a CLI tool inspired by the character Muzan Kibutsuji from *Demon Slayer: Kimetsu no Yaiba*. This tool embodies Muzan's characteristics—cold-hearted, ruthless, and unwavering in its pursuit of perfection—by ensuring permanence and immutability in data handling.
 
-![Muzan](./images/muzan_1.gif)
+![Muzan](https://github.com/likhositories/Muzan-Kibutsuji/blob/main/images/Muzan_slaughters_dozens_of_soldiers.gif?raw=true)
 
 ## Features
 
