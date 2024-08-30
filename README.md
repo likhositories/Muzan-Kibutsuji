@@ -73,5 +73,3 @@ Contributions are welcome! Please feel free to submit issues or pull requests. A
 ## License
 
 This project is licensed under the MIT License.
-
-![Muzan](https://cdn.shopify.com/s/files/1/0400/9767/7479/files/Demon-Slayer-Muzan-Kibutsuji-threatening-a-demon.png?v=1681162747)
